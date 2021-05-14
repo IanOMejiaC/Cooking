@@ -1,4 +1,39 @@
-h1{
+#title{
 	text-align: center;
-	text-decoration-color: pink;
+
+	color: white;
+	background-color: deeppink;
+	height: 170px;
+
+	font-family: "Brush Script MT", cursive; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } h3 { font-family: "Brush Script MT", cursive; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: "Brush Script MT", cursive; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: "Brush Script MT", cursive; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: "Brush Script MT", cursive; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; 
+}
+
+#first_title{
+	line-height: 70px;
+}
+
+form{
+	align-items: center;
+}
+
+input{
+  font-size: 1.2em;
+}
+
+#name_search{
+	margin-left: 42%;
+    height: 50px;
+    width: 200px;
+    font-size: 1.2em;
+    border-radius: 15px;
+}
+
+#button_search{
+	margin-top: 20px;
+	color: blue;
+	background-size: 40px 40px;
+	width: 40px;
+	height: 40px;
+	border: none;
+	border-radius: 50px;
 }
